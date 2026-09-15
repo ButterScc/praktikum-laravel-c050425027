@@ -95,3 +95,4 @@ Setelah server berjalan, buka alamat:
 
 `http://127.0.0.1:8000`
 
+Praktikum Git dan GitHub telah selesai.
