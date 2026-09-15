@@ -60,3 +60,38 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # Praktikum Laravel
 
 Proyek praktikum Laravel untuk pembelajaran framework Laravel.
+
+# Praktikum Laravel C050425027
+
+## Nama Proyek
+
+**Praktikum Laravel C050425027**
+
+## Deskripsi
+
+Proyek ini merupakan proyek praktikum pemrograman web menggunakan framework Laravel. Proyek digunakan untuk mempelajari dasar-dasar pengembangan aplikasi web menggunakan Laravel.
+
+## Langkah Menjalankan Proyek
+
+### 1. Install dependency
+
+```bash
+composer install
+```
+
+### 2. Migration dan seeder
+
+```bash
+php artisan migrate:fresh --seed
+```
+
+### 3. Jalankan server Laravel
+
+```bash
+php artisan serve
+```
+
+Setelah server berjalan, buka alamat:
+
+`http://127.0.0.1:8000`
+
